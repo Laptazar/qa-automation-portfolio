@@ -1,0 +1,21 @@
+{
+  "name": "qa-automation-portfolio",
+  "version": "1.0.0",
+  "description": "Portafolio de automatización de QA construido durante un programa intensivo de 8 semanas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laptazar/qa-automation-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Laptazar/qa-automation-portfolio/issues"
+  },
+  "homepage": "https://github.com/Laptazar/qa-automation-portfolio#readme"
+}
